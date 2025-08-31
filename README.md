@@ -10,7 +10,7 @@
 * **Model Weights (HuggingFace):**
   👉 [Main page](https://huggingface.co/tencent/HunyuanVideo-Foley/tree/main)
 
-## 📦 Repository & Models
+## 📦 ComfyUI Models Installation
 
 Make a folder "hunyuanvideo" in the "models" folder in ComfyUI
 
@@ -53,7 +53,7 @@ git clone https://github.com/descriptinc/audiotools`
 ```
 
 ```bash
-cd `audiotools`
+cd audiotools
 ```
 
 ```bash
