@@ -1,5 +1,7 @@
 # 🌀 ComfyUI Wrapper for [HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley)
 
+## Requires about 11Gb of VRAM ##
+
 ## 📦 Repository & Models
 
 * **GitHub:** [HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley)
