@@ -2,6 +2,8 @@
 
 ## Requires about 11Gb of VRAM ##
 
+![image](https://github.com/visualbruno/ComfyUI-HunyuanVideo-Foley/blob/main/assets/workflow.png)
+
 ## 📦 Repository & Models
 
 * **GitHub:** [HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley)
